@@ -64,7 +64,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-006: Parallelepiped Creation
 `USE_CASES/UC-006.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-007: Bounding Box Creation
 `USE_CASES/UC-007.md`
