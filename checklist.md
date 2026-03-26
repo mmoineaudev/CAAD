@@ -59,7 +59,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-005: Line Creation
 `USE_CASES/UC-005.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-006: Parallelepiped Creation
 `USE_CASES/UC-006.md`
