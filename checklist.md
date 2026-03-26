@@ -49,7 +49,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-003: Point Selection
 `USE_CASES/UC-003.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-004: Edge Selection
 `USE_CASES/UC-004.md`
