@@ -54,7 +54,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-004: Edge Selection
 `USE_CASES/UC-004.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-005: Line Creation
 `USE_CASES/UC-005.md`
