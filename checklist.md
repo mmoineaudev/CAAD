@@ -44,7 +44,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-002: Project Management
 `USE_CASES/UC-002.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-003: Point Selection
 `USE_CASES/UC-003.md`
