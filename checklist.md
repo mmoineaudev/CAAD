@@ -79,7 +79,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-009: Object Translation
 `USE_CASES/UC-009.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-010: Undo/Redo System
 `USE_CASES/UC-010.md`
