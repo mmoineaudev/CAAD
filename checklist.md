@@ -99,7 +99,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-013: FDTD Solver Implementation
 `USE_CASES/UC-013.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-014: Port Calculation Implementation
 `USE_CASES/UC-014.md`
