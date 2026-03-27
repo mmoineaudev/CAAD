@@ -5,6 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
+    "launch": "electron .",
     "test": "echo \"No tests yet\" && exit 0"
   },
   "keywords": ["antenna", "simulation", "FDTD", "CAD"],
