@@ -31,6 +31,9 @@ echo "Starting CAAD..."
 echo "============================================================"
 echo ""
 
+# Disable sandbox for Linux (common issue in non-root environments)
+export ELECTRON_NO_SANDBOX=1
+
 if command -v electron &> /dev/null; then
   electron .
 else

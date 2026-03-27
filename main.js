@@ -31,7 +31,8 @@ function createWindow() {
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false,
-      enableRemoteModule: true
+      enableRemoteModule: true,
+      sandbox: false // Disable sandbox for Linux compatibility
     },
     icon: path.join(__dirname, 'icon.png'),
     frame: true
