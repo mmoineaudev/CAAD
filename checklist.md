@@ -104,27 +104,27 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-014: Port Calculation Implementation
 `USE_CASES/UC-014.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-015: Material Properties Implementation
 `USE_CASES/UC-015.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-016: FDTD Solver Validation
 `USE_CASES/UC-016.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-017: Field Visualization Implementation
 `USE_CASES/UC-017.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-018: Automated Test Coverage
 `USE_CASES/UC-018.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 # Implementation Notes
 
