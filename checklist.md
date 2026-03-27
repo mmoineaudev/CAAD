@@ -40,6 +40,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 `USE_CASES/UC-001.md`
 * [x] implementation
 * [x] test
+* [x] integration test
 
 ### UC-002: Project Management
 `USE_CASES/UC-002.md`
