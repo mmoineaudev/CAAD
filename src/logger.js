@@ -10,7 +10,7 @@ const logger = {
   },
   
   // Current log level (default: INFO)
-  level: logger.levels.INFO,
+  level: 1, // INFO
   
   // Set log level
   setLevel(level) {

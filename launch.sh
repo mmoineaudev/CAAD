@@ -31,11 +31,10 @@ echo "Starting CAAD..."
 echo "============================================================"
 echo ""
 
-# Disable sandbox for Linux (common issue in non-root environments)
-export ELECTRON_NO_SANDBOX=1
-
 if command -v electron &> /dev/null; then
-  electron .
+  # Use --no-sandbox flag for Linux compatibility
+  electron . --no-sandbox --disable-setuid-sandbox
 else
-  ./node_modules/.bin/electron .
+  # Use --no-sandbox flag for Linux compatibility
+  ./node_modules/.bin/electron . --no-sandbox --disable-setuid-sandbox
 fi
