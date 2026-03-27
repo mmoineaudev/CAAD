@@ -74,7 +74,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-008: Port Definition
 `USE_CASES/UC-008.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-009: Object Translation
 `USE_CASES/UC-009.md`
