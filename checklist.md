@@ -69,7 +69,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-007: Bounding Box Creation
 `USE_CASES/UC-007.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-008: Port Definition
 `USE_CASES/UC-008.md`
