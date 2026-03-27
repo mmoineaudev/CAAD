@@ -89,7 +89,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-011: Project Save Operations
 `USE_CASES/UC-011.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-012: Project Load Operations
 `USE_CASES/UC-012.md`
