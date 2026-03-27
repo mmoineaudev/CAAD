@@ -1,0 +1,16 @@
+{
+  "name": "caad",
+  "version": "1.0.0",
+  "description": "Antenna CAD - Electromagnetic antenna simulation software",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["antenna", "simulation", "FDTD", "CAD"],
+  "author": "",
+  "license": "Proprietary",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
