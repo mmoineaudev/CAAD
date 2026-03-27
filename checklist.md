@@ -94,7 +94,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-012: Project Load Operations
 `USE_CASES/UC-012.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-013: FDTD Solver Implementation
 `USE_CASES/UC-013.md`
