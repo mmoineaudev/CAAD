@@ -84,7 +84,7 @@ Desktop antenna simulation software with geometry creation, visualization, and p
 ### UC-010: Undo/Redo System
 `USE_CASES/UC-010.md`
 * [ ] implementation
-* [ ] test
+* [x] test
 
 ### UC-011: Project Save Operations
 `USE_CASES/UC-011.md`
